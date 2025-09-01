@@ -1,0 +1,31 @@
+Requirements 
+
+Before running the notebooks, ensure the following are installed: 
+Python 3.9+ 
+Jupyter Notebook / Jupyter Lab 
+Required libraries (listed in requirements.txt): 
+	pip install -r requirements.txt 
+
+Key packages: 
+numpy 
+pandas 
+matplotlib 
+seaborn 
+scikit-learn 
+umap-learn 
+scipy 
+
+Running the Code 
+
+1.  Navigate into the repository: 
+	cd Pattern-Classification-Of-Stock-Price-Movement 
+
+2. Launch Jupyter Notebook: 
+
+	jupyter notebook 
+
+3. Open the desired notebook from the notebooks/ folder, e.g., 
+clustering_5_raw.ipynb → runs clustering with 5 clusters on raw data 
+clustering_5_zscore_norm.ipynb → runs clustering on Z-score normalized data 
+
+4. Run all cells sequentially to reproduce results and visualizations.
