@@ -50,14 +50,20 @@ This project applies unsupervised learning techniques to classify patterns in th
 ---
 
 ## 📂 Repository Structure  
+- notebooks
+   - clustering_4_raw.ipynb
+   - clustering_5_raw.ipynb
+   - clustering_7_raw.ipynb
+   - clustering_10_raw.ipynb
+   - clustering_5_robust_norm.ipynb
+   - clustering_5_zscore_norm.ipynb
+   - clustering_5_decimal_norm.ipynb
+   - data_normalisations.ipynb
+- data
+   - decimal_norm_data.csv
+   - robust.csv
+   - zscore_norm_data.csv
+   - raw_data.csv
 
-- clustering_4_raw.ipynb
-- clustering_5_raw.ipynb
-- clustering_7_raw.ipynb
-- clustering_10_raw.ipynb
-- clustering_5_robust_norm.ipynb
-- clustering_5_zscore_norm.ipynb
-- clustering_5_decimal_norm.ipynb
-- data_normalisations.ipynb
-
-- README.md 
+- README.md
+- Requirements.txt
