@@ -52,16 +52,16 @@ This project applies unsupervised learning techniques to classify patterns in th
 ## 📂 Repository Structure  
 
 
-├── data/                       # Contains raw and processed FTSE 100 stock data
-│
-├── notebooks/                   # Jupyter notebooks for clustering experiments
-│   ├── clustering_4_raw.ipynb
-│   ├── clustering_5_raw.ipynb
-│   ├── clustering_7_raw.ipynb
-│   ├── clustering_10_raw.ipynb
-│   ├── clustering_5_robust_norm.ipynb
-│   ├── clustering_5_zscore_norm.ipynb
-│   ├── clustering_5_decimal_norm.ipynb
-│   └── data_normalisations.ipynb
-│
-├── README.md 
+- data/                       # Contains raw and processed FTSE 100 stock data
+
+- notebooks/                   # Jupyter notebooks for clustering experiments
+   - clustering_4_raw.ipynb
+   - clustering_5_raw.ipynb
+   - clustering_7_raw.ipynb
+   - clustering_10_raw.ipynb
+   - clustering_5_robust_norm.ipynb
+   - clustering_5_zscore_norm.ipynb
+   - clustering_5_decimal_norm.ipynb
+   - data_normalisations.ipynb
+
+- README.md 
