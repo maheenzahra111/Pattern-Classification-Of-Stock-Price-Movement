@@ -61,9 +61,9 @@ This project applies unsupervised learning techniques to classify patterns in th
    - data_normalisations.ipynb
 - data
    - decimal_norm_data.csv
-   - robust.csv
+   - robust_norm_data.csv
    - zscore_norm_data.csv
-   - raw_data.csv
+   - FTSE_100_stock_price_data_(2020-2024).csv
 
 - README.md
 - Requirements.txt
